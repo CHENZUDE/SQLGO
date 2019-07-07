@@ -2,7 +2,11 @@ package com.noone.sqlgo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+
+import com.noone.sqlgomodule.SQLGo;
+import com.noone.sqlgomodule.SQLGoTable;
+import com.noone.sqlgomodule.SQLNew;
+import com.noone.sqlgomodule.SQLNewTable;
 
 public class MainActivity extends AppCompatActivity {
 

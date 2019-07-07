@@ -1,4 +1,4 @@
-package com.noone.sqlgo;
+package com.noone.sqlgomodule;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

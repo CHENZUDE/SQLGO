@@ -1,4 +1,4 @@
-package com.noone.sqlgo;
+package com.noone.sqlgomodule;
 
 public class SQLGoTable<S> {
     private String keyName;

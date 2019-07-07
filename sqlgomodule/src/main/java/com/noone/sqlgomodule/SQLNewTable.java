@@ -1,4 +1,4 @@
-package com.noone.sqlgo;
+package com.noone.sqlgomodule;
 
 public class SQLNewTable {
     private String name;
